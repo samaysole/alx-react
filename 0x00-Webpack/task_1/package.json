@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jQuery": "^1.7.4",
+    "jquery": "^1.7.4",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
